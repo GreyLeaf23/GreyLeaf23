@@ -8,8 +8,6 @@
 
 ## About Me
 
-* ML Engineer graduated from Holberton Coding School
-
 * Software Engineer at Holberton Coding School PR (June 2023 - Present)
 
 
